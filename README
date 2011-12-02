@@ -1,0 +1,18 @@
+A Pong clone powered by GTGE engine.
+
+~ Giovanni Capuano <http://www.giovannicapuano.net>
+
+Commands list:
+	PAUSE: SHIFT
+
+	Player 1:
+		UP -> A
+		DOWN -> Z
+
+	Player 2:
+		UP -> K
+		DOWN -> M
+
+	Player 1+2:
+		UP -> Up arrow
+		DOWN -> Down arrow
